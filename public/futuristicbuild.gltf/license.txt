@@ -1,0 +1,8 @@
+Model Information:
+* title:	SketchfabWeekly - Futuristic Building - Blue sky
+* source:	https://sketchfab.com/3d-models/sketchfabweekly-futuristic-building-blue-sky-4b41639c36d54ed0a2365abfe9996ed7
+* author:	Dark Mermaids (https://sketchfab.com/darkmermaids)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

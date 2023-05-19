@@ -1,0 +1,501 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2536,
+      "max": [
+        102.52517700195313,
+        577.773193359375,
+        55.03962707519531
+      ],
+      "min": [
+        -102.5244140625,
+        72.0831298828125,
+        -62.04134750366211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30432,
+      "componentType": 5126,
+      "count": 2536,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2536,
+      "max": [
+        0.9364911317825317,
+        0.996337890625
+      ],
+      "min": [
+        0.003662109375,
+        0.003662109375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9540,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 60864,
+      "componentType": 5126,
+      "count": 5478,
+      "max": [
+        102.52517700195313,
+        577.7733764648438,
+        65.03962707519531
+      ],
+      "min": [
+        -102.5244140625,
+        -8.81121826171875,
+        -72.04135131835938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 126600,
+      "componentType": 5126,
+      "count": 5478,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20288,
+      "componentType": 5126,
+      "count": 5478,
+      "max": [
+        0.996337890625,
+        0.9772409796714783
+      ],
+      "min": [
+        0.003662109375,
+        0.003662109375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38160,
+      "componentType": 5125,
+      "count": 16704,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 192336,
+      "componentType": 5126,
+      "count": 775,
+      "max": [
+        981.2027587890625,
+        979.2518920898438,
+        981.2036743164063
+      ],
+      "min": [
+        -981.2047119140625,
+        -979.2517700195313,
+        -981.19970703125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 201636,
+      "componentType": 5126,
+      "count": 775,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 64112,
+      "componentType": 5126,
+      "count": 775,
+      "max": [
+        0.9971852898597717,
+        0.996337890625
+      ],
+      "min": [
+        0.003662109375,
+        0.003662109375
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 104976,
+      "componentType": 5125,
+      "count": 3708,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Dark Mermaids (https://sketchfab.com/darkmermaids)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/sketchfabweekly-futuristic-building-blue-sky-4b41639c36d54ed0a2365abfe9996ed7",
+      "title": "SketchfabWeekly - Futuristic Building - Blue sky"
+    },
+    "generator": "Sketchfab-13.86.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 119808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 70312,
+      "byteOffset": 119808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 210936,
+      "byteOffset": 190120,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 401056,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/rooms_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/rooms_emissive.jpeg"
+    },
+    {
+      "uri": "textures/frame_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/background_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/background_emissive.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "rooms",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "frame",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 4
+      },
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "background",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "building_rooms_geo_rooms_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "building_frame_geo_frame_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "background_geo_background_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "7783aafc1093482d866545c229d8ee8e.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        8.81121826171875,
+        0.0,
+        1.0
+      ],
+      "name": "building_grp"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "building_rooms_geo"
+    },
+    {
+      "mesh": 0,
+      "name": "building_rooms_geo_rooms_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "building_frame_geo"
+    },
+    {
+      "mesh": 1,
+      "name": "building_frame_geo_frame_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        -1.0,
+        1.2246467991473532e-16,
+        -1.0106430996148606e-15,
+        0.0,
+        1.2246467991473517e-16,
+        1.0,
+        1.2246467991473532e-16,
+        0.0,
+        1.0106430996148606e-15,
+        1.2246467991473517e-16,
+        -1.0,
+        0.0,
+        -0.001953125,
+        -8.81121826171875,
+        0.00390625,
+        1.0
+      ],
+      "name": "background_geo"
+    },
+    {
+      "mesh": 2,
+      "name": "background_geo_background_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}
